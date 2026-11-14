@@ -33,6 +33,10 @@ The cleaned regression sample contained 31,785 observations.
 
 ### 2. Descriptive Statistics and Visualization
 
+### Analysis Preview
+
+![Housing Market Value Statistical Analysis](regression-analysis-preview.png)
+
 Descriptive statistics and histograms were used to examine the distribution of housing values.
 
 Because housing values were strongly right-skewed, a natural logarithm transformation was applied to the dependent variable.
